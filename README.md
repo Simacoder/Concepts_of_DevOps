@@ -47,6 +47,7 @@ DevOps is a culture, practice, and set of tools that bridge the gap between soft
 - ✅ Enhanced reliability and stability
 
 **Conclusion**
+
 DevOps is more than just tools—it's a mindset of collaboration, automation, and continuous improvement. By adopting DevOps practices, teams can build, test, and release software faster and more reliably.
 
 # AUTHOR
