@@ -40,10 +40,11 @@ DevOps is a culture, practice, and set of tools that bridge the gap between soft
 - Tools: SonarQube, Snyk, Trivy.
 
 **Benefits of DevOps**
-✅ Faster software delivery
-✅ Improved collaboration between teams
-✅ Increased automation and efficiency
-✅ Enhanced reliability and stability
+
+- ✅ Faster software delivery
+- ✅ Improved collaboration between teams
+- ✅ Increased automation and efficiency
+- ✅ Enhanced reliability and stability
 
 **Conclusion**
 DevOps is more than just tools—it's a mindset of collaboration, automation, and continuous improvement. By adopting DevOps practices, teams can build, test, and release software faster and more reliably.
