@@ -1,5 +1,9 @@
 **Understanding DevOps Culture in an Organization**
 
+- My name: [Simanga Mchunu](https://github.com/Simacoder)
+- Accountability partner: [Mandla Jiane](https://github.com/jman3000c)
+- Group name: DevOps_ZA
+
 DevOps culture is a collaborative and automation-driven approach to software development and IT operations that emphasizes communication, integration, and continuous improvement. It is not just a set of tools or practices but a mindset that transforms the way teams work together to deliver software faster, more reliably, and efficiently.
 
 **Core Principles of DevOps Culture**
